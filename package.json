@@ -1,0 +1,28 @@
+{
+  "name": "express-makeitreal-7",
+  "version": "1.0.0",
+  "description": "Encabezados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateomunozb/express-makeitreal-7.git"
+  },
+  "keywords": [
+    "http",
+    "makeitreal",
+    "reto7"
+  ],
+  "author": "Mateo Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateomunozb/express-makeitreal-7/issues"
+  },
+  "homepage": "https://github.com/mateomunozb/express-makeitreal-7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15"
+  }
+}
